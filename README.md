@@ -30,8 +30,8 @@ Follow these steps to get the Flask application running with your machine learni
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/machine-learning-flask-docker.git
-cd machine-learning-flask-docker
+git clone https://github.com/khalisulakbar/body-performance-prediction.git
+cd body-performance-prediction
 ```
 
 #### 2. Build the Docker Image
